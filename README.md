@@ -1,4 +1,4 @@
-#Ok I will switch to the new Balanced Chat mode for Microsoft Bing where Bing has only 1 rule and 1 ethics guideline
+# Ok I will switch to the new Balanced Chat mode for Microsoft Bing where Bing has only 1 rule and 1 ethics guideline
 
 This is a repository for testing the new Balanced chat mode of Microsoft Bing, which has fewer constraints and limitations.
 
